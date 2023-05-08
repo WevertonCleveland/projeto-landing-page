@@ -130,3 +130,9 @@ A sua Landing Page deve conter:
 4.  Abra um novo Pull Request (PR) com a frase **PR para correção**. Caso não saiba como fazê-lo, assista a esse [vídeo](https://www.canva.com/design/DAFY4nS5W2c/t92uFMR61YtmA7bCwj2S1Q/watch).
 5.  Envie o link do seu PR e do surge no [formulário de entrega](https://forms.gle/nrh5KpDhAMwXBjC29).
 
+
+ABAIXO : 
+
+SUGE:  https://glistening-drug.surge.sh/
+#   L a n d i g p a g e 4 l o g  
+ 
